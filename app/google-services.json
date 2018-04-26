@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566766400523",
+    "firebase_url": "https://assoandroid-16672.firebaseio.com",
+    "project_id": "assoandroid-16672",
+    "storage_bucket": "assoandroid-16672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566766400523:android:216372b8d2e6158f",
+        "android_client_info": {
+          "package_name": "com.example.adama.androidassofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566766400523-5bhm81ifenlisheap9sqlhq6jgdacr37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHM_uUaa9Na58KvANWyB7LPfdOz-B8HI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

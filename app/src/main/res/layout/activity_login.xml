@@ -55,6 +55,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
+            android:onClick="btn_loginClicked"
             android:layout_marginBottom="24dp"
             android:textColor="@android:color/white"
             android:background="@color/colorPrimaryDark"
@@ -66,6 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="24dp"
             android:textColor="@android:color/white"
+            android:onClick="txv_inscriptionClicked"
             android:text="No account yet? Create one"
             android:gravity="center"
             android:textSize="16dip"/>
